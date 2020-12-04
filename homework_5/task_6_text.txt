@@ -1,0 +1,4 @@
+Programming: 100(l) 50(pr) 20(lab)
+Physics: 30(l) - 10(lab)
+Mathematics: 10(l) 30(pr) -
+Chemistry: - 10(pr) 15(lab)
