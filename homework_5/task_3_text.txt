@@ -1,0 +1,10 @@
+Ivanov 23543.12
+Petrov 13749.32
+Sidorov 18745.96
+Smirnov 22685.57
+Popov 17269.94
+Kuznetsov 11275.67
+Lebedev 29354.13
+Sokolov 31695.37
+Novikov 19643.48
+Kozlov 21456.02
